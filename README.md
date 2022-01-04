@@ -1,6 +1,5 @@
 ### Olá eu sou o Rafael Campos 👋
 
-- 🔭 Aluno da Bandtec Digital School!
 - 🌱 Estudando Ciência da Computação!
 
 <div align="center">
