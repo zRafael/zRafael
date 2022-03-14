@@ -1,6 +1,7 @@
 ### Olá eu sou o Rafael Campos 👋
 
-- 🌱 Estudando Ciência da Computação!
+- 🌱 Desenvolvedor Java!
+- 🌱 Aluno da Generation Brasil!
 
 <div align="center">
   <a href="https://github.com/zRafael">
