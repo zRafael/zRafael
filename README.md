@@ -1,8 +1,5 @@
 ### Olá eu sou o Rafael de Campos 👋
 
-- 🌱 Desenvolvedor Web Java Full Stack!
-- 🌱 Aluno da Generation Brasil!
-
 <div align="center">
   <a href="https://github.com/zRafael">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=zRafael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
